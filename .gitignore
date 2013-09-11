@@ -1,6 +1,5 @@
-*.class
+*.svn/*
+target/*
+.settings/*
+.gitignore
 
-# Package Files #
-*.jar
-*.war
-*.ear
